@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1245327322",
+    "project_id": "tourguide-aa203",
+    "storage_bucket": "tourguide-aa203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1245327322:android:a81652f31b14429e559ae3",
+        "android_client_info": {
+          "package_name": "tourguide.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1245327322-6romk21r9d1skpoi3ssneq6dhqidsoql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDce3LHL7bwJHyF0T08wtJdzgqUYgny4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1245327322-6romk21r9d1skpoi3ssneq6dhqidsoql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
